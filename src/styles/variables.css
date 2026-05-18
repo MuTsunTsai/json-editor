@@ -1,0 +1,12 @@
+:root {
+	--font-mono: "SF Mono", "Fira Code", "Consolas", monospace;
+	--text-key: #89b4fa;
+	--text-string: #a6e3a1;
+	--text-number: #fab387;
+	--text-boolean: #cba6f7;
+	--text-null: #6c7086;
+	--indent-guide: #313244;
+	--node-selected: rgba(137, 180, 250, 0.15);
+	--node-hover: rgba(255, 255, 255, 0.04);
+	--drag-helper-bg: rgba(49, 49, 71, 0.8);
+}
