@@ -11,4 +11,7 @@ export default defineConfig({
 	html: {
 		template: "./src/index.html",
 	},
+	server: {
+		base: "/json-editor/",
+	},
 });
